@@ -1,3 +1,3 @@
 # README
 
-The Complete Ruby on Rails course
+The Complete Ruby on Rails Course
